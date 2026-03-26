@@ -1,0 +1,16 @@
+{
+  "total_samples": 4215,
+  "test_samples": 843,
+  "overall_accuracy": 96.56,
+  "macro_f1": 91.54,
+  "weighted_f1": 96.56,
+  "mean_confidence": 85.69,
+  "low_conf_pct": 1.78,
+  "misclassified_pct": 3.44,
+  "classes": [
+    "hazardous",
+    "moderate",
+    "moderately high",
+    "safe"
+  ]
+}

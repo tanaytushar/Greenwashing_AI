@@ -1,0 +1,11 @@
+{
+  "word_vocab_size": 1909,
+  "char_vocab_size": 9000,
+  "classes": [
+    "hazardous",
+    "moderate",
+    "moderately high",
+    "safe"
+  ],
+  "cv_f1_mean": 0.922
+}
